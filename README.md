@@ -1,4 +1,4 @@
-# MachineLearningProject - Linear regression
+# Machine Learning Project - Linear regression
 > A python program that implements Linear Regression on a sample dataset for used car prediction problem using Gradient descent, Normal equation and Genetic algorithm
 - Car details v3.csv: used cars information
 - Cleaned data.csv: cars data after cleaned
